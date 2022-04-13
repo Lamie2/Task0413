@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task1304\Task1304\bin\Debug\netcoreapp3.1\Task1304.exe
+C:\Users\User\source\repos\Task1304\Task1304\bin\Debug\netcoreapp3.1\Task1304.deps.json
+C:\Users\User\source\repos\Task1304\Task1304\bin\Debug\netcoreapp3.1\Task1304.runtimeconfig.json
+C:\Users\User\source\repos\Task1304\Task1304\bin\Debug\netcoreapp3.1\Task1304.runtimeconfig.dev.json
+C:\Users\User\source\repos\Task1304\Task1304\bin\Debug\netcoreapp3.1\Task1304.dll
+C:\Users\User\source\repos\Task1304\Task1304\bin\Debug\netcoreapp3.1\Task1304.pdb
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.AssemblyInfo.cs
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.dll
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.pdb
+C:\Users\User\source\repos\Task1304\Task1304\obj\Debug\netcoreapp3.1\Task1304.genruntimeconfig.cache
